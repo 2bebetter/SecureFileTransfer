@@ -29,8 +29,6 @@ IDE： Eclipse
 ```
 │  CREATE.sql
 │  readme.md
-│  安全文件传输实验报告-王明慧.pdf
-│  运行视频.mp4
 │
 └─FileTransfer
     │  cookie.txt
